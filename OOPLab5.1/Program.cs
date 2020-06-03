@@ -232,7 +232,7 @@ namespace OOPLab5._1
 
             {
 
-                Console.WriteLine("Enter value of day that`s you want to change \n1)Name\n2)Speciality\n3)Date like 01.02.2000\n4)Patients count\n5)Start Hour");
+                Console.WriteLine(" Enter value of day that`s you want to change \n1)Name\n2)Speciality\n3)Date like 01.02.2000\n4)Patients count\n5)Start Hour");
 
                 char a = Console.ReadKey().KeyChar;
 
